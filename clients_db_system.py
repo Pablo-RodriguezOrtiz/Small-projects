@@ -1,3 +1,11 @@
+# ------------------------------------------------------------------------
+#
+#
+# Made with python 3.8.8
+#
+#
+# ------------------------------------------------------------------------
+
 clientes={}                                                                 #Creamos el diccionario vacío como variable global.
 def empresa():
     global clientes
