@@ -1,3 +1,11 @@
+# ------------------------------------------------------------------------
+#
+#
+# Made with python 3.8.8
+#
+#
+# ------------------------------------------------------------------------
+
 def dbinario():
     x = input("¿Qué número quieres pasar a binario? ")
     if "." in x:                                                #Si el número tiene parte decimal:
